@@ -1,0 +1,52 @@
+\contentsline {section}{\numberline {1}Phonology (The Universal Sounds)}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Prosody}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Morphophonology}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}The Periodic Table of Meaning (24 Roots)}{3}{section.2}%
+\contentsline {section}{\numberline {3}Grammar \& Syntax}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Word Order: SOV (Subject -- Object -- Verb)}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Word Building (Agglutination)}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Pronouns}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Plurals \& Possession}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Grammatical Particles}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Question Words}{5}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Demonstratives}{5}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Tense (Verb Suffixes)}{5}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Aspect (Optional Verb Suffixes)}{6}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Affect Particles (Speaker Stance)}{6}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Adjectives \& Adverbs (Free Modifiers)}{7}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Comparatives}{7}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Conditionals \& Modality}{8}{subsection.3.13}%
+\contentsline {subsection}{\numberline {3.14}Negation}{8}{subsection.3.14}%
+\contentsline {subsection}{\numberline {3.15}Spatial Postpositions}{8}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.16}Imperative Mood}{8}{subsection.3.16}%
+\contentsline {subsection}{\numberline {3.17}Reflexive \& Reciprocal}{9}{subsection.3.17}%
+\contentsline {subsection}{\numberline {3.18}Derivational Morphology}{9}{subsection.3.18}%
+\contentsline {subsection}{\numberline {3.19}Productive Compound Templates}{9}{subsection.3.19}%
+\contentsline {subsection}{\numberline {3.20}Disambiguation Conventions}{11}{subsection.3.20}%
+\contentsline {section}{\numberline {4}Core Vocabulary}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}People \& Relations}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Nature \& Environment}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Body \& Senses}{14}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Animals}{14}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Food \& Drink}{15}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Core Verbs}{15}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Actions \& Objects}{17}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Objects \& Artefacts}{18}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Time \& Place}{19}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Spatial \& Direction}{19}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Quantity \& Determiners}{19}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}Qualities \& States}{21}{subsection.4.12}%
+\contentsline {subsection}{\numberline {4.13}Emotions \& Discourse}{22}{subsection.4.13}%
+\contentsline {subsection}{\numberline {4.14}Abstract \& Mental Concepts}{22}{subsection.4.14}%
+\contentsline {subsection}{\numberline {4.15}Society, Colours \& Health}{22}{subsection.4.15}%
+\contentsline {subsection}{\numberline {4.16}Proper Nouns \& Loanwords}{23}{subsection.4.16}%
+\contentsline {section}{\numberline {5}Base-10 Mathematics}{24}{section.5}%
+\contentsline {subsection}{\numberline {5.1}The Number Grid (0--9)}{24}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Place Values \& Operators}{24}{subsection.5.2}%
+\contentsline {section}{\numberline {6}The Featural Writing System}{24}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Base Shapes (Consonants)}{24}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Vowel Modifiers}{25}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Complete Glyph Table}{25}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Orientation}{25}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Punctuation}{25}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Story Translation: ``The Meeting''}{26}{section.7}%
