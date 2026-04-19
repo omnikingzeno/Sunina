@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  13 MAR 2026 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  19 APR 2026 15:28
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **sunina.tex
 (./sunina.tex
@@ -419,19 +418,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [2{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}] [3] [4] [5] [6] [7] [8]
-Underfull \hbox (badness 1077) in paragraph at lines 369--369
+}] [3] [4] [5] [6] [7] [8] [9]
+Underfull \hbox (badness 1077) in paragraph at lines 379--379
 []|\OT1/cmr/m/it/12 yasi \OT1/cmr/m/n/12 (happy), \OT1/cmr/m/it/12 wisi \OT1/cm
 r/m/n/12 (sad), \OT1/cmr/m/it/12 kusi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--369
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 []|\OT1/cmr/m/it/12 masupi \OT1/cmr/m/n/12 (en-emy), \OT1/cmr/m/it/12 mayumu
  []
 
-[9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23]
-[24] [25] [26] (./sunina.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+[]|\OT1/cmr/m/it/12 yimupimu \OT1/cmr/m/n/12 (bird), \OT1/cmr/m/it/12 yumupimu
+ []
+
+[10] [11] [12] [13]
+Overfull \hbox (0.3445pt too wide) in paragraph at lines 525--538
+[][] 
+ []
+
+[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] (./sunina.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -446,7 +454,7 @@ Here is how much of TeX's memory you used:
  39175 multiletter control sequences out of 15000+600000
  637834 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,548b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,576b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
 b></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
@@ -456,7 +464,7 @@ usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr
 /local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><
 /usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on sunina.pdf (26 pages, 175850 bytes).
+Output written on sunina.pdf (26 pages, 177595 bytes).
 PDF statistics:
  460 PDF objects out of 1000 (max. 8388607)
  409 compressed objects within 5 object streams
