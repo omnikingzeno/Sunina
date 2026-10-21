@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.12)  21 OCT 2026 12:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.12)  21 OCT 2026 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -509,13 +509,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 397--397
 [12]
 
 [13]
+
+[14]
 Overfull \hbox (0.3445pt too wide) in paragraph at lines 525--538
 [][] 
  []
 
 
-
-[14]
 
 [15]
 
@@ -539,7 +539,25 @@ Overfull \hbox (0.3445pt too wide) in paragraph at lines 525--538
 
 [25]
 
-[26] (sunina.aux)
+[26]
+Overfull \hbox (10.34177pt too wide) in paragraph at lines 1054--1059
+\OT1/cmr/m/it/12 S3: $\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 ^ \OMS/cmsy/m/n/12 ^^A\
+OT1/cmr/m/n/12 ][\U/msa/m/n/12 ^^C[]\OT1/cmr/m/n/12 ][\OMS/cmsy/m/n/12 ^^M[]\OT
+1/cmr/m/n/12 ][\OMS/cmsy/m/n/12 	[]\OT1/cmr/m/n/12 ]  [\OMS/cmsy/m/n/12 	^^A\OT
+1/cmr/m/n/12 ]  [\U/msa/m/n/12 ^^C[]\OT1/cmr/m/n/12 ][\OML/cmm/m/it/12 ^ \OMS/c
+msy/m/n/12 ^^A\OT1/cmr/m/n/12 ][\U/msa/m/n/12 ^^C\OMS/cmsy/m/n/12 ^^A\OT1/cmr/m
+/n/12 ][\OMS/cmsy/m/n/12 4[]\OT1/cmr/m/n/12 ]  [\U/msa/m/n/12 ^^C[]\OT1/cmr/m/n
+/12 ][\OMS/cmsy/m/n/12 4[]\OT1/cmr/m/n/12 ]  [\OML/cmm/m/it/12 ^ \OMS/cmsy/m/n/
+12 ^^A\OT1/cmr/m/n/12 ][\U/msa/m/n/12 ^^C[]\OT1/cmr/m/n/12 ][\OMS/cmsy/m/n/12 ^
+^M[]\OT1/cmr/m/n/12 ][\OMS/cmsy/m/n/12 	[]\OT1/cmr/m/n/12 ]  [\OML/cmm/m/it/12 
+Z[]\OT1/cmr/m/n/12 ][\OMS/cmsy/m/n/12 ^^M[]\OT1/cmr/m/n/12 ]  [\U/msa/m/n/12 ^^
+C\OMS/cmsy/m/n/12 ^^A\OT1/cmr/m/n/12 ][\OMS/cmsy/m/n/12 4[]\OT1/cmr/m/n/12 ] \O
+MS/cmsy/m/n/12 j$ 
+ []
+
+
+
+[27] (sunina.aux)
  ***********
 LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
@@ -548,13 +566,13 @@ Package rerunfilecheck Info: File `sunina.out' has not changed.
 (rerunfilecheck)             Checksum: 4444C02FB46D1FCDBC97AA00996FAA1C;8652.
  ) 
 Here is how much of TeX's memory you used:
- 10516 strings out of 468225
- 162125 string characters out of 5430517
+ 10517 strings out of 468225
+ 162132 string characters out of 5430517
  579181 words of memory out of 5000000
  38823 multiletter control sequences out of 15000+600000
  636938 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,578b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,578b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Manu Pande\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
 \tcrm1200.pk><C:/Users/Manu Pande/AppData/Local/Programs/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmbx12.pfb><C:/Users/Manu Pande/AppData/Local/Programs/MiKTeX/f
@@ -566,9 +584,9 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
 onts/cm/cmsy8.pfb><C:/Users/Manu Pande/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmti12.pfb><C:/Users/Manu Pande/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on sunina.pdf (26 pages, 216333 bytes).
+Output written on sunina.pdf (27 pages, 218229 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 91 named destinations out of 1000 (max. 500000)
+ 458 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
  417 words of extra memory for PDF output out of 10000 (max. 10000000)
 
